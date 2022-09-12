@@ -1,5 +1,4 @@
 import pytest
-import string
 
 def test_reverse_str():
 	assert 'Kitten'[::-1] == 'nettiK'
